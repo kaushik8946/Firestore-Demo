@@ -20,7 +20,18 @@ fun saveEmployeeData(db: FirebaseFirestore, employee: Employee) {
 }
 
 fun getAllEmployees(db: FirebaseFirestore) {
-    val db = FirebaseFirestore.getInstance()
-    val collectionRef = db.collection("employees")
-
+    val docRef = db.collection("employees")
+    docRef
+        .get()
+        .addOnSuccessListener { documents ->
+            for (document in documents) {
+                if (document != null) {
+                    val emp = document.toObject(Employee::class.java)
+                    Log.d("Firestore", emp.toString())
+                }
+            }
+        }
+        .addOnFailureListener { err ->
+            Log.e("Firestore", "Error: ${err.message}")
+        }
 }

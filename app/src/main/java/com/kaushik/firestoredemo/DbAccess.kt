@@ -20,8 +20,7 @@ fun saveEmployeeData(db: FirebaseFirestore, employee: Employee) {
 }
 
 fun getAllEmployees(db: FirebaseFirestore) {
-    val docRef = db.collection("employees")
-    docRef
+    db.collection("employees")
         .get()
         .addOnSuccessListener { documents ->
             for (document in documents) {

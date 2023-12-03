@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "561213516290",
+    "firebase_url": "https://fire-demo-2b230-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fire-demo-2b230",
+    "storage_bucket": "fire-demo-2b230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561213516290:android:942c6aff6d5b4409ee951b",
+        "android_client_info": {
+          "package_name": "com.kaushik.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561213516290-knk15enk73nnlisk7ptso58u0edv00ek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaushik.chatapp",
+            "certificate_hash": "2625824d3014344a4d350116d60bb15cafc1abcc"
+          }
+        },
+        {
+          "client_id": "561213516290-hdf0mbl90eh65ebv7nkha28185gsmnjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGPNhaUmGoc-Ot89sq-Us8mzMyrYZnPn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561213516290-hdf0mbl90eh65ebv7nkha28185gsmnjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561213516290:android:a8d321c6c692487fee951b",
+        "android_client_info": {
+          "package_name": "com.kaushik.firedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561213516290-hdf0mbl90eh65ebv7nkha28185gsmnjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGPNhaUmGoc-Ot89sq-Us8mzMyrYZnPn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561213516290-hdf0mbl90eh65ebv7nkha28185gsmnjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561213516290:android:8f8654f7b328dd8bee951b",
+        "android_client_info": {
+          "package_name": "com.kaushik.firestoredemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561213516290-hdf0mbl90eh65ebv7nkha28185gsmnjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGPNhaUmGoc-Ot89sq-Us8mzMyrYZnPn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561213516290-hdf0mbl90eh65ebv7nkha28185gsmnjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561213516290:android:695a3dbf137e84adee951b",
+        "android_client_info": {
+          "package_name": "com.kaushik.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561213516290-6ub1u0ktkdfn793p9sk81vln9qvttr6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaushik.shopping",
+            "certificate_hash": "2625824d3014344a4d350116d60bb15cafc1abcc"
+          }
+        },
+        {
+          "client_id": "561213516290-hdf0mbl90eh65ebv7nkha28185gsmnjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGPNhaUmGoc-Ot89sq-Us8mzMyrYZnPn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561213516290-hdf0mbl90eh65ebv7nkha28185gsmnjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
